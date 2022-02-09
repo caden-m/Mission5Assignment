@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{71A1EB78-7150-4D95-996D-0983E0AB8EA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Delete.cshtml">
+    <Files>
+      <File FileName="Models/ApplicationResponse.cs" Line="4" Column="19" />
+      <File FileName="Controllers/HomeController.cs" />
+      <File FileName="Views/Home/Application.cshtml" />
+      <File FileName="Views/Home/Collection.cshtml" />
+      <File FileName="Startup.cs" />
+      <File FileName="Models/ApplicationContext.cs" />
+      <File FileName="Models/Category.cs" />
+      <File FileName="Views/Home/Delete.cshtml" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission5" expanded="True">
+            <Node name="Mission4" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Delete.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mission4 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
